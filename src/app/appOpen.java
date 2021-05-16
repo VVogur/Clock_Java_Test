@@ -3,7 +3,7 @@ package app;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class app {
+public class appOpen {
     public static void main(String[] args) throws IOException {
         Scanner sr = new Scanner(System.in);
         Runtime rs = Runtime.getRuntime();
